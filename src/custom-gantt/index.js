@@ -1,7 +1,6 @@
 import React from "react";
 import moment from "moment";
 // 引入 ECharts 主模块
-
 import echarts from "echarts/lib/echarts";
 
 import "echarts/map/js/china";

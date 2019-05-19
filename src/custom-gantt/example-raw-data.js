@@ -1,6 +1,5 @@
 import moment from "moment";
 
-
 function _date(date) {
   return moment(date)
     .startOf("day")
